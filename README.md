@@ -23,6 +23,4 @@ The project demonstrates the complete ML workflow including data preprocessing, 
 - Scikit-learn
 - Matplotlib / Seaborn
 
----
 
-## 📂 Project Structure
